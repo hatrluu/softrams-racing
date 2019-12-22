@@ -1,0 +1,20 @@
+#addMemberButton {
+  margin-bottom: 10px;
+}
+.close {
+  float: none;
+}
+
+.btn:hover{
+  background: rgb(212, 212, 212);
+  transition: ease-in 0.1s;
+}
+
+.btn:active{
+  background: rgb(139, 139, 139);
+  transition: ease-in 0.1s;
+}
+
+.delete{
+  color: rgb(216, 35, 35);
+}
